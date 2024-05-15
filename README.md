@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 <p>A large Consumer Finance Company in marketplace, facilitating different loans to customers in easier and faster methods through online platforms. In its Business activity, this company is <b>facing huge “Credit Loss” made by the default customers.</b> “Credit Loss” is the amount of money lost by the lenders when the borrowed customers are failed/refused to repay the lend money or absconded with the money they owned. We call these customers as “Defaulters”. 
     
 ***The company wants to understand the driving factors (or driver variables) behind loan default***. So that, it can utilise this knowledge for its portfolio and risk assessment by scrutinizing its decision making on loan approvals.</p>
